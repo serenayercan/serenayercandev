@@ -1,5 +1,5 @@
 # align="center">Hi 👋, I'm Serenay Ercan
-## align="center">React & Java
+## React & Java
 
 ### Connect with me: 
 
