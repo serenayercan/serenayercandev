@@ -1,7 +1,7 @@
 # align="center">Hi 👋, I'm Serenay Ercan
 ## align="center">React & Java
 
-### align="left">Connect with me:
+### Connect with me: 
 
 </p>
 
